@@ -1,0 +1,4 @@
+Suma: 27
+Media Aritmetica:4.0
+Valoarea Minima: 2
+Valoarea Maxima: 8
